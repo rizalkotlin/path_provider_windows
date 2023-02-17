@@ -24,6 +24,7 @@ dependencies:
   path_provider_platform_interface:
     git:
       url: https://github.com/rizalkotlin/path_provider_platform_interface.git
+      # ref: 4e2b3805e52e56a1c3a529b016e322c4697e9be7
   win32: ^2.0.0
 
 dev_dependencies:
